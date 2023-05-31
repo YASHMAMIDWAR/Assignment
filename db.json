@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "name": "Yash",
+      "email": "yash@gmail.com",
+      "phone": "8714924216",
+      "active": false,
+      "id": 1
+    },
+    {
+      "name": "Atharv",
+      "email": "a@idh.com",
+      "phone": "9766758824",
+      "active": false,
+      "id": 2
+    },
+    {
+      "name": "Arya Mamidwar",
+      "email": "a@gmail.com",
+      "phone": "7904671456",
+      "active": false,
+      "id": 3
+    },
+    {
+      "name": "Yash",
+      "email": "d@fsfdgag",
+      "phone": "9887784099",
+      "active": false,
+      "id": 4
+    }
+  ]
+}
